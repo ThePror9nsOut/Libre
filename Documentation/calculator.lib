@@ -1,0 +1,51 @@
+[input int var]:
+[ chyslo 1
+
+[input int var]:
+[ chyslo 2
+
+[input str var]:
+[ chto +\-\*
+
+[str var]:
+[ +
+[str var]:
+[ -
+[str var]:
+[ *
+[str var]:
+[ ^
+
+if is {
+{ 3
+{ 4
+[+]:
+[ 1
+[ 2
+}
+
+if is {
+{ 3
+{ 5
+[-]:
+[ 1
+[ 2
+}
+
+if is {
+{ 3
+{ 6
+[*]:
+[ 1
+[ 2
+}
+
+if is {
+{ 3
+{ 7
+[^]:
+[ 1
+[ 2
+}
+
+[printf var] 1
