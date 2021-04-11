@@ -1,11 +1,11 @@
 [input int var]:
-[ chyslo 1
+[ chyslo 1 
 
 [input int var]:
-[ chyslo 2
+[ chyslo 2 
 
 [input str var]:
-[ chto +\-\*
+[ chto +\-\* 
 
 [str var]:
 [ +
